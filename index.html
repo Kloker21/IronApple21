@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scss/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <title>Главная</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><a class="silka" href="index.html">IronApple</a></h1>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a class="silka" href="index.html">Главная</a></li>
+                    <li><a class="silka" href="catalog.html">Каталог</a></li>
+                    <li><a class="silka" href="information.html">О нас</a></li>
+                    <li><a href="basket.html"><svg class="icon1" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 2L3 6V20C3 20.5304 3.21071 21.0391 3.58579 21.4142C3.96086 21.7893 4.46957 22 5 22H19C19.5304 22 20.0391 21.7893 20.4142 21.4142C20.7893 21.0391 21 20.5304 21 20V6L18 2H6Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M3 6H21" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M16 10C16 11.0609 15.5786 12.0783 14.8284 12.8284C14.0783 13.5786 13.0609 14 12 14C10.9391 14 9.92172 13.5786 9.17157 12.8284C8.42143 12.0783 8 11.0609 8 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg><span class="count">0</span></a>
+                    </li>
+                    <button class="burger-open">
+                        <img src="images/menu.svg" alt=""> 
+                    </button>
+                </ul>
+            </nav>
+            <div class="burger">
+                <ul>
+                    <li><a class="silka" href="index.html">Главная</a></li>
+                    <li><a class="silka" href="catalog.html">Каталог</a></li>
+                    <li><a class="silka" href="information.html">О нас</a></li>
+                    <li><a href="basket.html"><svg class="icon1" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 2L3 6V20C3 20.5304 3.21071 21.0391 3.58579 21.4142C3.96086 21.7893 4.46957 22 5 22H19C19.5304 22 20.0391 21.7893 20.4142 21.4142C20.7893 21.0391 21 20.5304 21 20V6L18 2H6Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M3 6H21" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M16 10C16 11.0609 15.5786 12.0783 14.8284 12.8284C14.0783 13.5786 13.0609 14 12 14C10.9391 14 9.92172 13.5786 9.17157 12.8284C8.42143 12.0783 8 11.0609 8 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg><span class="count">0</span></a>
+                    </li>
+                </ul>
+                <button class="burger-close">
+                    <img src="images/x.svg" alt="">
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="videobox">
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <video src="video/iphone16.mp4" autoplay muted loop playsinline></video>
+                    </div>
+                    <div class="swiper-slide">
+                        <video src="video/watch.mp4" autoplay muted loop playsinline></video>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+        <div class="white_blocks">
+            <div class="block">
+                <img src="images/1.webp" alt="">
+                <h3>Оригинальная техника</h3>
+                <p>Только оригинальная, новая и неактивированная техника Apple.</p>
+            </div>
+            <div class="block">
+                <img src="images/2.webp" alt="">
+                <h3>Официальная гарантия</h3>
+                <p>На всю продукцию предоставляется официальная гарантия Apple.</p>
+            </div>
+            <div class="block">
+                <img src="images/3.webp" alt="">
+                <h3>Бесплатная доставка</h3>
+                <p>Абсолютно бесплатная и быстрая доставка по Минску и всей Беларуси.</p>
+            </div>
+            <div class="block">
+                <img src="images/4.webp" alt="">
+                <h3>Подарки покупателям</h3>
+                <p>Каждому клиенту дарим полезные подарки. По промокоду IronApple.</p>
+            </div>
+        </div>
+        <p class="Iph16text">Iphone 16 128GB</p>
+        <div class="flex_container">
+            <div class="flex_item">
+                <img src="images/1.jpg" alt="">
+                <div class="model">Iphone 16</div>
+                <div class="phone_info">
+                    <span class="price">2380 BYN</span>
+                    <button onclick="window.location.href='description.html?id=1'" class="buy">Купить</button>
+                </div>
+            </div>
+            <div class="flex_item">
+                <img src="images/2.jpg" alt="">
+                <div class="model">Iphone 16</div>
+                <div class="phone_info">
+                    <span class="price">2380 BYN</span>
+                    <button onclick="window.location.href='description.html?id=2'" class="buy">Купить</button>
+                </div>
+            </div>
+            <div class="flex_item">
+                <img src="images/3.jpg" alt="">
+                <div class="model">Iphone 16</div>
+                <div class="phone_info">
+                    <span class="price">2380 BYN</span>
+                    <button onclick="window.location.href='description.html?id=3'" class="buy">Купить</button>
+                </div>
+            </div>
+        </div>
+        <div class="lust_content">
+            <div class="gradient">IronApple</div>
+            <div class="text1">
+                <h2>Магазин оригинальной техники Apple</h2>
+                <p>IronApple – интернет-магазин, специализирующийся на продаже техники Apple в Минске и по всей Беларуси. У нас вы можете приобрести любую современную продукцию Apple по уникально низким ценам: смартфоны (все последние поколения iPhone), планшеты (iPad), ноутбуки (MacBook), моноблоки (iMac), компактные компьютеры (Mac mini), часы (Apple Watch), наушники (AirPods) и стилусы (Apple Pencil).</p>
+                <p>Мы продаем только оригинальную, новую и неактивированную технику Apple, которая годами будет радовать вас своей надежностью, эстетичностью и простотой в использовании. Для проверки подлинности товара перед доставкой мы высылаем его IMEI (серийный номер), с помощью которого на официальном сайте Apple вы можете убедиться в его оригинальности.</p>
+                <p>Мы радуем наших клиентов быстрой и, самое главное, абсолютно бесплатной доставкой по Минску и всей Беларуси в любой день недели, без праздников и выходных.</p>
+                <p>На любой товар из нашего каталога предоставляется официальная гарантия 12 месяцев, отправляем продукцию на сервис только в официальные центры Apple в Европе!</p>
+                <p>Не знаете или сомневаетесь, что выбрать? В нашей команде только настоящие эксперты, которые предоставят вам персональную консультацию, помогут с выбором, расскажут об официальной гарантии и объяснят тонкости работы с устройствами на iOS и macOS.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer">
+            <div class="content">
+                <span class="logo">IronApple</span>
+                <span class="nelogo">Ежедневно 8:00-22:00</span>
+                <span class="nelogo">+375 29 110-56-56</span>
+                <span class="nelogo">+375 29 267-56-56</span>
+                <span class="nelogo">info@appstudio.by</span>
+                <div class="social">
+                    <a href="https://t.me/kotkovets21"><img src="images/tg.png" alt=""></a>
+                    <a href="https://www.instagram.com/kotkovets21/"><img src="images/insta.svg" alt=""></a>
+                    <a href="https://vk.com/madara2307"><img src="images/wk.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+</body>
+</html>

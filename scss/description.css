@@ -1,0 +1,496 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap");
+body {
+  background-color: #F5F5F5;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 a {
+  font-size: 30px;
+  margin: 10;
+  margin-right: 120px;
+  background: linear-gradient(90deg, blue, black);
+  color: transparent;
+  -webkit-background-clip: text;
+          background-clip: text;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  border-bottom: 2px solid black;
+  margin-bottom: 20px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 150px;
+  font-size: 28px;
+}
+.nav-menu ul {
+  display: flex;
+  gap: 150px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-menu a {
+  text-decoration: none;
+  color: black;
+}
+.nav-menu li {
+  text-decoration: none;
+  color: black;
+  transition: transform 0.5s ease;
+  font-weight: 400;
+}
+.nav-menu li:hover {
+  font-weight: 500;
+  color: black;
+  transform: scale(1.05);
+}
+
+.icon1 {
+  width: 24px;
+  height: 24px;
+  color: black;
+  transition: all 0.5s ease;
+}
+.icon1:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  color: dodgerblue;
+}
+
+.gg1 {
+  font-size: 18px;
+  padding-left: 80px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#glav {
+  width: 1310px;
+  height: 400px;
+  border-radius: 30px;
+}
+
+.imagescont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  position: absolute;
+  margin-right: 700px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+.information {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+  background-color: white;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.information_2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+  background-color: white;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  width: 100%;
+}
+
+#photo {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 40%;
+  height: 380px;
+}
+
+.price {
+  color: crimson;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titul {
+  color: black;
+  font-weight: bold;
+  margin-right: auto;
+  font-size: 20px;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.har-ka {
+  color: #666;
+  margin-right: auto;
+}
+
+.division {
+  color: black;
+}
+
+.buy-button {
+  padding: 15px 40px;
+  font-size: 18px;
+  width: 30%;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  border: 2px solid #00aaff;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+.buy-button:hover {
+  background-image: linear-gradient(45deg, white, #00aaff);
+  color: white;
+  border: none;
+  border: 2px solid #F5F5F5;
+}
+
+.footer {
+  width: 85%;
+  height: 150px;
+  background-color: white;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40px;
+  align-items: center;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+
+.social {
+  display: flex;
+  gap: 24px;
+}
+
+.social img {
+  width: 32px;
+  height: 32px;
+}
+
+.nelogo {
+  font-size: 17px;
+}
+
+.burger-open, .burger-close {
+  background-color: none;
+  border: none;
+  padding: 0;
+}
+
+.burger {
+  position: fixed;
+  left: -100%;
+  top: 0;
+  width: 100%;
+  height: 50%;
+  background-color: white;
+  transition: ease 0.5s;
+  opacity: 0.9;
+  z-index: 1000;
+}
+
+.burger li {
+  list-style: none;
+}
+
+.burger a {
+  color: black;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+
+.burger.open {
+  left: 0;
+}
+
+.burger-close {
+  background-color: white;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.swiper, .mySwiper {
+  width: 90%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+  right: 140px !important;
+  left: auto;
+}
+
+.swiper-button-prev, .swiper-rtl .swiper-button-next {
+  left: 140px !important;
+  right: auto;
+}
+
+.nav-menu li {
+  position: relative;
+}
+
+.count {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: #0066FF;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.burger .count {
+  top: 10px;
+}
+
+@media (max-width: 1130px) {
+  .nav-menu ul {
+    gap: 120px;
+  }
+}
+@media (min-width: 1070px) {
+  .burger, .burger-open {
+    display: none;
+  }
+}
+@media (max-width: 1070px) {
+  .nav-menu ul li {
+    display: none;
+  }
+  .nav-menu ul {
+    gap: 50px;
+  }
+  .burger ul li {
+    text-align: center;
+  }
+  .burger ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    flex-direction: column;
+    font-size: 50px;
+    padding-inline-start: 0;
+    gap: 20px;
+    padding-top: 20px;
+  }
+  .icon1 {
+    width: 50px;
+    height: 100px;
+  }
+}
+@media (max-height: 750px) {
+  .burger {
+    height: 65%;
+  }
+}
+@media (max-width: 1300px) {
+  .information {
+    width: 60%;
+  }
+  .swiper {
+    width: 100%;
+  }
+  #photo {
+    width: 40%;
+    height: 410px;
+  }
+  .buy-button {
+    width: 40%;
+  }
+}
+@media (max-width: 1200px) {
+  .information {
+    width: 60%;
+  }
+  .swiper {
+    width: 100%;
+  }
+  #photo {
+    width: 40%;
+    height: 410px;
+  }
+  .buy-button {
+    width: 40%;
+  }
+}
+@media (max-width: 1100px) {
+  .information, .information_2 {
+    width: 80%;
+  }
+  .swiper {
+    width: 95%;
+  }
+  #photo {
+    width: 35%;
+    height: 380px;
+  }
+}
+@media (max-width: 1000px) {
+  .buy-button {
+    width: 50%;
+  }
+}
+@media (max-width: 900px) {
+  .information {
+    width: 80%;
+  }
+  .swiper {
+    width: 100%;
+  }
+  #photo {
+    width: 40%;
+  }
+  .swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: 70px !important;
+  }
+  .swiper-button-prev, .swiper-rtl .swiper-button-next {
+    left: 70px !important;
+  }
+  .buy-button {
+    width: 55%;
+  }
+}
+@media (max-width: 700px) {
+  .information {
+    width: 90%;
+    padding: 20px;
+  }
+  #photo {
+    width: 50%;
+    height: 410px;
+  }
+  .swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: 80px !important;
+  }
+  .swiper-button-prev, .swiper-rtl .swiper-button-next {
+    left: 80px !important;
+  }
+  .buy-button {
+    width: 60%;
+  }
+}
+@media (max-width: 500px) {
+  .information {
+    width: 85%;
+    padding: 15px;
+  }
+  .information_2 {
+    width: 75%;
+  }
+  #photo {
+    width: 60%;
+    height: 480px;
+  }
+  .swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: 20px !important;
+  }
+  .swiper-button-prev, .swiper-rtl .swiper-button-next {
+    left: 20px !important;
+  }
+  .buy-button {
+    width: 65%;
+  }
+}
+@media (max-width: 400px) {
+  .footer {
+    width: 90%;
+  }
+}
+@media (max-width: 450px) {
+  .information_2 {
+    width: 72%;
+  }
+}
+@media (max-width: 1300px) {
+  .footer {
+    height: 100%;
+    padding: 10px;
+  }
+  .content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+  }
+}/*# sourceMappingURL=description.css.map */

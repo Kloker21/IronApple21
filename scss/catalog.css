@@ -1,0 +1,386 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap");
+body {
+  background-color: #F5F5F5;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 a {
+  font-size: 30px;
+  margin: 10;
+  margin-right: 120px;
+  background: linear-gradient(90deg, blue, black);
+  color: transparent;
+  -webkit-background-clip: text;
+          background-clip: text;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  border-bottom: 2px solid black;
+  margin-bottom: 20px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 150px;
+  font-size: 28px;
+}
+.nav-menu ul {
+  display: flex;
+  gap: 150px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-menu a {
+  text-decoration: none;
+  color: black;
+}
+.nav-menu li {
+  text-decoration: none;
+  color: black;
+  transition: transform 0.5s ease;
+  font-weight: 400;
+}
+.nav-menu li:hover {
+  font-weight: 500;
+  color: black;
+  transform: scale(1.05);
+}
+
+.icon1 {
+  width: 24px;
+  height: 24px;
+  color: black;
+  transition: all 0.5s ease;
+}
+.icon1:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  color: dodgerblue;
+}
+
+.burger-open, .burger-close {
+  background-color: none;
+  border: none;
+  padding: 0;
+}
+
+.burger {
+  position: fixed;
+  left: -100%;
+  top: 0;
+  width: 100%;
+  height: 50%;
+  background-color: white;
+  opacity: 0.9;
+  transition: ease 0.5s;
+  z-index: 1000;
+}
+
+.burger li {
+  list-style: none;
+}
+
+.burger a {
+  color: black;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+
+.burger.open {
+  left: 0;
+}
+
+.burger-close {
+  background-color: white;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.catalog {
+  display: flex;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.filters {
+  width: 20%;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+
+.products {
+  width: 80%;
+  margin-top: 20px;
+}
+
+.filters h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.filter h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #666;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.options label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #444;
+}
+
+.options input[type=checkbox] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  min-width: 18px;
+  max-width: 18px;
+  min-height: 18px;
+  max-height: 18px;
+}
+
+.flex_container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 30px;
+  justify-content: center;
+}
+
+.flex_item {
+  background-color: white;
+  width: calc(33.3% - 20px);
+  height: 370px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.flex_item:hover {
+  transform: scale(1.05);
+}
+
+.flex_item img {
+  width: 195px;
+  height: 240px;
+  padding-top: 20px;
+}
+
+.model {
+  font-size: 20px;
+  margin: 10px 0;
+  text-align: center;
+  color: black;
+}
+
+.phone_info {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price {
+  color: crimson;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.buy {
+  background-color: #007AFF;
+  color: white;
+  border: none;
+  width: 40%;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.buy:hover {
+  background-color: #0056b3;
+}
+
+.footer {
+  width: 98%;
+  height: 150px;
+  background-color: white;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40px;
+  align-items: center;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+
+.social {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.social img {
+  width: 32px;
+  height: 32px;
+}
+
+.nelogo {
+  font-size: 17px;
+}
+
+@media (max-width: 1300px) {
+  .footer {
+    height: 100%;
+    padding: 10px;
+  }
+  .content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+  }
+}
+@media (max-width: 1130px) {
+  .nav-menu ul {
+    gap: 120px;
+  }
+}
+@media (min-width: 1070px) {
+  .burger, .burger-open {
+    display: none;
+  }
+}
+@media (max-width: 1200px) {
+  .flex_item {
+    width: calc(50% - 20px);
+  }
+}
+@media (max-width: 768px) {
+  .flex_item {
+    width: 70%;
+  }
+}
+@media (max-width: 590px) {
+  .price {
+    font-size: 16px;
+  }
+  .model {
+    font-size: 16px;
+  }
+}
+@media (max-width: 550px) {
+  .flex_item {
+    width: 100%;
+  }
+  .filters {
+    margin-right: 40px;
+  }
+}
+@media (max-width: 1070px) {
+  .nav-menu ul li {
+    display: none;
+  }
+  .nav-menu ul {
+    gap: 50px;
+  }
+  .burger ul li {
+    text-align: center;
+  }
+  .burger ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    flex-direction: column;
+    font-size: 50px;
+    padding-inline-start: 0;
+    gap: 20px;
+    padding-top: 20px;
+  }
+  .icon1 {
+    width: 50px;
+    height: 100px;
+  }
+}
+@media (max-height: 750px) {
+  .burger {
+    height: 65%;
+  }
+}
+@media (max-width: 420px) {
+  .filters, .products, .catalog {
+    padding: 10px;
+  }
+  .buy {
+    width: 45%;
+  }
+  .model {
+    font-size: 14px;
+  }
+}
+.nav-menu li {
+  position: relative;
+}
+
+.count {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: #0066FF;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.burger .count {
+  top: 10px;
+}/*# sourceMappingURL=catalog.css.map */

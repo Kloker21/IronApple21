@@ -1,0 +1,407 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
+@import 'mixin.scss';
+
+body 
+{
+    background-color: #F5F5F5;
+    font-family: 'Montserrat', sans-serif;
+}
+   
+h1 a
+{
+    font-size: 30px;
+    margin: 10;
+    margin-right: 120px;
+    background: linear-gradient(90deg, blue, black);
+    color: transparent;
+    background-clip: text;
+    text-decoration: none;
+}
+
+.container
+{
+    display: flex;     
+    align-items: center;
+    justify-content: center;
+    gap: 50px; 
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-menu 
+{
+    @include menu_one;
+    font-size: 28px;
+    
+    ul
+    {
+        @include menu_one;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    a
+    {
+        @include menu_two;
+    }
+    li
+    {
+        @include menu_two;
+        transition: transform 0.5s ease;
+        font-weight: 400;
+        
+        &:hover 
+        {
+            font-weight: 500;
+            color: black;
+            transform: scale(1.05);
+        }
+    }
+}
+
+.icon1
+{
+    width: 24px;
+    height: 24px;
+    color: black;
+    transition: all 0.5s ease;
+
+    &:hover
+    {
+        cursor: pointer;
+        transform: scale(1.05);
+        color: dodgerblue;
+    }
+}
+#Logo
+{
+    width: 250px;
+    height: 400px;;
+}
+
+.title-container 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+h2 
+{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    margin-left: 105px;
+    margin-top: 25px;
+}
+.gradient
+{
+    font-size: 100px;
+    font-weight: bold;
+    background: linear-gradient(90deg, blue, black);
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+}
+.text1 h2
+{
+    font-size: 32px;
+    color: #333;
+}
+
+.text1 p
+{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.lust_content
+{
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    width: 81%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);   
+}
+
+.three_block
+{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 83%;
+    align-items: flex-start;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.three_block h2
+{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.three_block p
+{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    margin-left: 20px;
+}
+
+.title
+{
+    color: #333;
+}
+.info_text
+{
+    color: #666;
+}
+.footer 
+{
+    width: 86%;
+    height: 150px;
+    background: white;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.content
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+    align-items: center;
+}
+
+.logo 
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+.social
+{
+    display: flex;
+    gap: 24px;
+}
+
+.social img
+{
+    width: 32px;
+    height: 32px;
+}
+
+.nelogo
+{
+    font-size: 17px;
+}
+.burger-open, .burger-close
+{
+    background-color: none;
+    border: none;
+    padding: 0;
+}
+.burger
+{
+    position: fixed;
+    left: -100%;
+    top: 0;
+    width: 100%;
+    height: 50%;
+    background: white;
+    transition: ease 0.5s;
+    opacity: 0.9;
+    z-index: 1000;
+}
+.burger li
+{
+    list-style: none;
+}
+.burger a
+{
+    color: black;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+}
+.burger.open
+{
+    left: 0;
+}
+.burger-close
+{
+    background-color: white;
+    border: none;
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.nav-menu li
+{
+    position: relative;
+}
+
+.count 
+{
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background: #0066FF;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+.burger .count
+{
+    top: 10px;
+}
+@media (max-width: 1130px)
+{
+    .nav-menu ul
+    {
+        gap: 120px;
+    }
+} 
+@media (min-width: 1070px)
+{
+    .burger, .burger-open
+    {
+        display: none;
+    }
+} 
+@media (max-width: 1070px) 
+{
+    .nav-menu ul li
+    {
+        display: none;
+    }
+    .nav-menu ul
+    {
+        gap: 50px;
+    }
+    .burger ul li
+    {
+        text-align: center;
+    }
+    .burger ul
+    {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: 100%;
+        flex-direction: column;
+        font-size: 50px;
+        padding-inline-start: 0;
+        gap: 20px;
+        padding-top: 20px;
+    }
+    .icon1
+    {
+        width: 50px;
+        height: 100px;
+    }
+}   
+@media (max-height: 750px)
+{
+    .burger
+    {
+        height: 65%;
+    }
+} 
+@media(max-width: 1300px)
+{
+    .footer
+    {
+        height: 100%;
+        padding: 10px;
+    }
+    .content 
+    {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 15px;
+    }
+}
+@media (max-width: 1250px) 
+{
+    .lust_content 
+    {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+        
+    .text1 h2 
+    {
+        margin-left: 0;
+    }
+    .footer
+    {
+        width: 87%;
+    }
+}
+@media (max-width: 715px)
+{
+    .lust_content div 
+    {
+        font-size: 60px;
+    }
+}
+@media (max-width: 515px) 
+{
+    .lust_content 
+    {
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+    .lust_content div 
+    {
+        font-size: 40px;
+    }
+    .lust_content
+    {
+        width: 77%;
+    }
+}
+@media (max-width: 450px) 
+{
+    .footer
+    {
+        width: 90%;
+    }
+}

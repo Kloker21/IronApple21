@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Iphone 16 128GB</name>
+    <price>2380 BYN</price>
+    <photos>
+      <image>images\iphone16blue-1.jpg</image>
+      <image>images\iphone16blue-2.jpg</image>
+      <image>images\iphone16blue-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>синий</color>
+    </characteristics>
+  </product>
+<product>
+    <id>2</id>
+    <name>Iphone 16 128GB</name>
+    <price>2380 BYN</price>
+    <photos>
+      <image>images\16green-1.jpg</image>
+      <image>images\16green-2.jpg</image>
+      <image>images\16green-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>зеленый</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Iphone 16 128GB</name>
+    <price>2380 BYN</price>
+    <photos>
+      <image>images\16black-1.jpg</image>
+      <image>images\16black-2.jpg</image>
+      <image>images\16black-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>4</id>
+    <name>Iphone 16 512GB</name>
+    <price>3800 BYN</price>
+    <photos>
+      <image>images\16green-1.jpg</image>
+      <image>images\16green-2.jpg</image>
+      <image>images\16green-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>512GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>зеленый</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>5</id>
+    <name>Iphone 16 128GB</name>
+    <price>2380 BYN</price>
+    <photos>
+      <image>images\16pink-1.jpg</image>
+      <image>images\16pink-2.jpg</image>
+      <image>images\16pink-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>розовый</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>6</id>
+    <name>Iphone 16 128GB</name>
+    <price>2380 BYN</price>
+    <photos>
+      <image>images\16white-1.jpg</image>
+      <image>images\16white-2.jpg</image>
+      <image>images\16white-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>7</id>
+    <name>Iphone 16 Pro 128GB</name>
+    <price>3150 BYN</price>
+    <photos>
+      <image>images\16prowhite-1.jpg</image>
+      <image>images\16prowhite-2.jpg</image>
+      <image>images\16prowhite-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>8</id>
+    <name>Iphone 16 Pro 128GB</name>
+    <price>3150 BYN</price>
+    <photos>
+      <image>images\16problack-1.jpg</image>
+      <image>images\16problack-2.jpg</image>
+      <image>images\16problack-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>9</id>
+    <name>Iphone 16 Pro 128GB</name>
+    <price>3150 BYN</price>
+    <photos>
+      <image>images\16progold-1.jpg</image>
+      <image>images\16progold-2.jpg</image>
+      <image>images\16progold-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>золотой</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>10</id>
+    <name>Iphone 16 256GB</name>
+    <price>2710 BYN</price>
+    <photos>
+      <image>images\16green-1.jpg</image>
+      <image>images\16green-2.jpg</image>
+      <image>images\16green-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>зеленый</color>
+    </characteristics>
+  </product>
+   <product>
+    <id>11</id>
+    <name>Iphone 16 256GB</name>
+    <price>2710 BYN</price>
+    <photos>
+      <image>images\16black-1.jpg</image>
+      <image>images\16black-2.jpg</image>
+      <image>images\16black-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+   <product>
+    <id>12</id>
+    <name>Iphone 16 256GB</name>
+    <price>2710 BYN</price>
+    <photos>
+      <image>images\16pink-1.jpg</image>
+      <image>images\16pink-2.jpg</image>
+      <image>images\16pink-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>розовый</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>13</id>
+    <name>Iphone 16 Pro 256GB</name>
+    <price>3500 BYN</price>
+    <photos>
+      <image>images\16prowhite-1.jpg</image>
+      <image>images\16prowhite-2.jpg</image>
+      <image>images\16prowhite-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>14</id>
+    <name>Iphone 16 512GB</name>
+    <price>3800 BYN</price>
+    <photos>
+      <image>images\16white-1.jpg</image>
+      <image>images\16white-2.jpg</image>
+      <image>images\16white-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16</characteristic>
+      <characteristic>Разрешение экрана - 2556x1179</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18</characteristic>
+      <memory>512GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - Двойная основная камера: 48 Мп + 12 Мп, фронтальная камера: 12 Мп</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+      <product>
+    <id>15</id>
+    <name>Iphone 16 Pro 1TB</name>
+    <price>4800 BYN</price>
+    <photos>
+      <image>images\16progold-1.jpg</image>
+      <image>images\16progold-2.jpg</image>
+      <image>images\16progold-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>1TB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>золотой</color>
+    </characteristics>
+  </product>
+   <product>
+    <id>16</id>
+    <name>Iphone 16 Pro 512GB</name>
+    <price>4100 BYN</price>
+    <photos>
+      <image>images\16prowhite-1.jpg</image>
+      <image>images\16prowhite-2.jpg</image>
+      <image>images\16prowhite-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>512GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>17</id>
+    <name>Iphone 16 Pro 512GB</name>
+    <price>4100 BYN</price>
+    <photos>
+      <image>images\16problack-1.jpg</image>
+      <image>images\16problack-2.jpg</image>
+      <image>images\16problack-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>512GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>18</id>
+    <name>Iphone 16 Pro Max 512GB</name>
+    <price>4650 BYN</price>
+    <photos>
+      <image>images\16problack-1.jpg</image>
+      <image>images\16problack-2.jpg</image>
+      <image>images\16problack-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 16 Pro Max</characteristic>
+      <characteristic>Разрешение экрана - 2622x1206</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А18 Pro</characteristic>
+      <memory>512GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 18 МП фотографии со сверхвысоким разрешением (24 Мп и 48 Мп).Портреты нового  поколения с функциями фокусировки и контроля глубины.Макросъемка с разрешением 48 Мп Dolby Vision до 4K со скоростью 120 кадров в секунду. Пространственные фото и видео.</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+      <product>
+    <id>19</id>
+    <name>Iphone 15 128GB</name>
+    <price>2100 BYN</price>
+    <photos>
+      <image>images\15green-1.jpg</image>
+      <image>images\15green-2.jpg</image>
+      <image>images\15green-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>зеленый</color>
+    </characteristics>
+    </product>
+    <product>
+    <id>20</id>
+    <name>Iphone 15 128GB</name>
+    <price>2100 BYN</price>
+    <photos>
+      <image>images\15black-1.jpg</image>
+      <image>images\15black-2.jpg</image>
+      <image>images\15black-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>21</id>
+    <name>Iphone 15 128GB</name>
+    <price>2100 BYN</price>
+    <photos>
+      <image>images\15pink-1.jpg</image>
+      <image>images\15pink-2.jpg</image>
+      <image>images\15pink-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>розовый</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>22</id>
+    <name>Iphone 15 128GB</name>
+    <price>2100 BYN</price>
+    <photos>
+      <image>images\15blue-1.jpg</image>
+      <image>images\15blue-2.jpg</image>
+      <image>images\15blue-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>синий</color>
+    </characteristics>
+  </product>
+      <product>
+    <id>23</id>
+    <name>Iphone 15 128GB</name>
+    <price>2100 BYN</price>
+    <photos>
+      <image>images\15gold-1.jpg</image>
+      <image>images\15gold-2.jpg</image>
+      <image>images\15gold-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>128GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>золотой</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>24</id>
+    <name>Iphone 15 256GB</name>
+    <price>2330 BYN</price>
+    <photos>
+      <image>images\15pink-1.jpg</image>
+      <image>images\15pink-2.jpg</image>
+      <image>images\15pink-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>розовый</color>
+    </characteristics>
+  </product>
+      <product>
+    <id>25</id>
+    <name>Iphone 15 256GB</name>
+    <price>2330 BYN</price>
+    <photos>
+      <image>images\15blue-1.jpg</image>
+      <image>images\15blue-2.jpg</image>
+      <image>images\15blue-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>синий</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>26</id>
+    <name>Iphone 15 Pro 1TB</name>
+    <price>4010 BYN</price>
+    <photos>
+      <image>images\15problack-1.jpg</image>
+      <image>images\15problack-2.jpg</image>
+      <image>images\15problack-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А17 Pro</characteristic>
+      <memory>1TB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 24 мм, диафрагма ƒ/1,78, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+  <product>
+    <id>27</id>
+    <name>Iphone 15 Pro 1TB</name>
+    <price>4010 BYN</price>
+    <photos>
+      <image>images\15prowhite-1.jpg</image>
+      <image>images\15prowhite-2.jpg</image>
+      <image>images\15prowhite-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15 Pro</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А17 Pro</characteristic>
+      <memory>1TB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 24 мм, диафрагма ƒ/1,78, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>28</id>
+    <name>Iphone 15 Pro Max 1TB</name>
+    <price>4190 BYN</price>
+    <photos>
+      <image>images\15problack-1.jpg</image>
+      <image>images\15problack-2.jpg</image>
+      <image>images\15problack-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15 Pro Max</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А17 Pro</characteristic>
+      <memory>1TB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 24 мм, диафрагма ƒ/1,78, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>черный</color>
+    </characteristics>
+  </product>
+    <product>
+    <id>29</id>
+    <name>Iphone 15 Pro Max 1TB</name>
+    <price>4190 BYN</price>
+    <photos>
+      <image>images\15prowhite-1.jpg</image>
+      <image>images\15prowhite-2.jpg</image>
+      <image>images\15prowhite-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15 Pro Max</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А17 Pro</characteristic>
+      <memory>1TB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 24 мм, диафрагма ƒ/1,78, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>белый</color>
+    </characteristics>
+  </product>
+        <product>
+    <id>25</id>
+    <name>Iphone 15 256GB</name>
+    <price>2330 BYN</price>
+    <photos>
+      <image>images\15green-1.jpg</image>
+      <image>images\15green-2.jpg</image>
+      <image>images\15green-3.jpg</image>
+    </photos>
+    <characteristics>
+      <characteristic>Модель - Iphone 15</characteristic>
+      <characteristic>Разрешение экрана - 2796x1290</characteristic>
+      <characteristic>Тип матрицы - OLED (Super Retina XDR)</characteristic>
+      <characteristic>Процессор - Apple А16</characteristic>
+      <memory>256GB</memory>
+      <characteristic>Поддержка карт памяти - Нет</characteristic>
+      <characteristic>Основная камера - 48 МП: 26 мм, диафрагма ƒ/1,6, оптическая стабилизация изображения со смещением датчика второго поколения, 100% фокусировка пикселей, поддержка фотографий со сверхвысоким разрешением (24 МП и 48 МП)</characteristic>
+      <characteristic>Фронтальная камера - 12 Мп</characteristic>
+      <characteristic>Сканер отпечатков Touch ID - Нет</characteristic>
+      <characteristic>Идентификатор лица - Да</characteristic>
+      <color>зелленый</color>
+    </characteristics>
+  </product>
+</products>
